@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa462683.css",
+    "main.css": "/static/css/main.722a2963.css",
     "main.js": "/static/js/main.d88866b4.js",
     "static/media/BarlowCondensed-Bold.ttf": "/static/media/BarlowCondensed-Bold.ca168dbe270fba68a7f3.ttf",
     "static/media/BarlowCondensed-Regular.ttf": "/static/media/BarlowCondensed-Regular.a51441e972d57b28e7c1.ttf",
@@ -15,11 +15,11 @@
     "static/media/background-technology-tablet.jpg": "/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
     "static/media/background-destination-mobile.jpg": "/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
     "index.html": "/index.html",
-    "main.fa462683.css.map": "/static/css/main.fa462683.css.map",
+    "main.722a2963.css.map": "/static/css/main.722a2963.css.map",
     "main.d88866b4.js.map": "/static/js/main.d88866b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa462683.css",
+    "static/css/main.722a2963.css",
     "static/js/main.d88866b4.js"
   ]
 }
